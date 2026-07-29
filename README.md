@@ -1,9 +1,8 @@
 # **NEXALEARN SYSTEMS & TECHNOLOGICAL INNOVATION (NXL-S)**
+**Business Registration No.:** **RC – 8616801**
 #### **Business Automation • Software Development • Digital Transformation • Artificial Intelligence**
 
 ### **Cooperative:** **PCMS Limited**
-
-**Business Registration No.:** **RC – 8616801**
 
 **Document Version:** **1.0**
 **Email:** [message@nexasystems.com](mailto:message@nexasystems.com)
